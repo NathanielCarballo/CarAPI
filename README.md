@@ -55,5 +55,5 @@ CarApi is a simple ASP.NET Core Web API for managing a collection of cars and th
 
 ## License
 
-This project does not currently include a license file. Consider adding one if you plan to share or distribute the code.
+This project does not currently include a license file.
 
